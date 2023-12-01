@@ -1,0 +1,3 @@
+[submodule "src/SafeMaC"]
+	path = src/SafeMaC
+	url = https://github.com/mahaitongdae/SafeMaC.git
